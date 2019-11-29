@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App02.Pages.Perfil1">
+    <ContentPage.Content>
+        <StackLayout Spacing="0">
+
+            
+
+            <Grid HeightRequest="60" BackgroundColor="#0D1F2D"> <!--Tabelas do centro-->
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                    
+                </Grid.ColumnDefinitions>
+
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+            
+            <!-- Primeira tabela da idade-->
+            <StackLayout Grid.Row="0" Grid.Column="0" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand">
+                
+               
+            </StackLayout>
+            <!-- Segunda tabela da data de nascimento-->
+            <StackLayout Grid.Column="1" Grid.Row="0"  HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand">
+               
+
+            </StackLayout>
+            </Grid> <!-- Final da Grid-->
+
+            <StackLayout  Padding="30" VerticalOptions="Center" HorizontalOptions="Center "> <!-- Parte inferior da pagina-->
+                <Label Text="SEJA BEM VINDO AO CLUTCH KINECTICS." FontSize="Large"/>
+            </StackLayout>
+            
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

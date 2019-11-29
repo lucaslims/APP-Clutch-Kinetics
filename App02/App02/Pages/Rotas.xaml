@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App02.Pages.Rotas">
+    
+    <StackLayout>
+        <Label FontAttributes="Bold" Text=" Traçar a rota" VerticalOptions="Center" HorizontalOptions="Center" />
+        <StackLayout HorizontalOptions="Center">
+
+            <StackLayout Padding="20" Spacing="40"> 
+
+                <Entry x:Name="entryLongitude" Placeholder=" Coloque a Longitude. Ex: -46,6521" />
+            </StackLayout>
+            <StackLayout Padding="20" Spacing="40">
+                <Entry x:Name="entryLatitude" Placeholder=" Coloque a Latitude. Ex: -23,5652" />
+            </StackLayout>
+
+            <StackLayout Padding="20">
+                 <Entry x:Name="entryNome" Placeholder="Local " />
+                
+                  <Button x:Name="btnclick" Text="Traçar rota" Clicked="btn_clicked" />
+                
+            </StackLayout>
+            
+            
+            
+        </StackLayout>
+  
+    </StackLayout>
+</ContentPage>

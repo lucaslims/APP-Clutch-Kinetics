@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App02.Pages.Xamarin">
+    <ContentPage.Content>
+        <StackLayout Spacing="0">
+            <StackLayout BackgroundColor="LightGray" Padding="30">
+                <Image Source="Logo.png" HorizontalOptions="Center" VerticalOptions="Center"/>
+                
+            </StackLayout>
+
+            <StackLayout HeightRequest="50" BackgroundColor="#0D1F2D" Padding="30">
+               
+                
+            </StackLayout>
+
+            
+                <Label Text="Empresa" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand" TextColor="Black" FontSize="48"/>
+                 
+            
+            
+            <StackLayout Padding="120">
+                <Label Text="Bem vindo a Clutch Kinectics." FontSize="Large"/>
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
