@@ -983,24 +983,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\T-Gamer\\.nuget\\packages\\": {},
-    "C:\\ProgramData\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\ls_li\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\GitHub\\App02\\App02\\App02.iOS\\App02.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\ls_li\\OneDrive\\PIM\\4SEM\\MOBILE\\Mobile\\APP-Clutch-Kinetics\\App02\\App02.iOS\\App02.iOS.csproj",
       "projectName": "App02.iOS",
-      "projectPath": "C:\\GitHub\\App02\\App02\\App02.iOS\\App02.iOS.csproj",
-      "packagesPath": "C:\\Users\\T-Gamer\\.nuget\\packages\\",
-      "outputPath": "C:\\GitHub\\App02\\App02\\App02.iOS\\obj\\",
+      "projectPath": "C:\\Users\\ls_li\\OneDrive\\PIM\\4SEM\\MOBILE\\Mobile\\APP-Clutch-Kinetics\\App02\\App02.iOS\\App02.iOS.csproj",
+      "packagesPath": "C:\\Users\\ls_li\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ls_li\\OneDrive\\PIM\\4SEM\\MOBILE\\Mobile\\APP-Clutch-Kinetics\\App02\\App02.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
-        "C:\\ProgramData\\Xamarin\\NuGet\\"
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\T-Gamer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ls_li\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -1014,8 +1014,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\GitHub\\App02\\App02\\App02\\App02.csproj": {
-              "projectPath": "C:\\GitHub\\App02\\App02\\App02\\App02.csproj"
+            "C:\\Users\\ls_li\\OneDrive\\PIM\\4SEM\\MOBILE\\Mobile\\APP-Clutch-Kinetics\\App02\\App02\\App02.csproj": {
+              "projectPath": "C:\\Users\\ls_li\\OneDrive\\PIM\\4SEM\\MOBILE\\Mobile\\APP-Clutch-Kinetics\\App02\\App02\\App02.csproj"
             }
           }
         }

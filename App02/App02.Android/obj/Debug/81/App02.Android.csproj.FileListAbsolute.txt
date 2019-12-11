@@ -123,4 +123,13 @@ C:\GitHub\App02\App02\App02.Android\obj\Debug\81\res\drawable\home.png
 C:\GitHub\App02\App02\App02.Android\obj\Debug\81\res\drawable\icon.png
 C:\GitHub\App02\App02\App02.Android\obj\Debug\81\res\drawable\logout.png
 C:\GitHub\App02\App02\App02.Android\obj\Debug\81\res\drawable\settings.png
-C:\GitHub\App02\App02\App02.Android\obj\Debug\81\linksrc\App02.dll.mdb
+C:\Users\ls_li\OneDrive\PIM\4SEM\MOBILE\Mobile\APP-Clutch-Kinetics\App02\App02.Android\obj\Debug\81\MonoAndroid,Version=v8.1.AssemblyAttributes.cs
+C:\Users\ls_li\OneDrive\PIM\4SEM\MOBILE\Mobile\APP-Clutch-Kinetics\App02\App02.Android\obj\Debug\81\build.props
+C:\Users\ls_li\OneDrive\PIM\4SEM\MOBILE\Mobile\APP-Clutch-Kinetics\App02\App02.Android\obj\Debug\81\adb.props
+C:\Users\ls_li\OneDrive\PIM\4SEM\MOBILE\Mobile\APP-Clutch-Kinetics\App02\App02.Android\obj\Debug\81\App02.Android.csprojAssemblyReference.cache
+C:\Users\ls_li\OneDrive\PIM\4SEM\MOBILE\Mobile\APP-Clutch-Kinetics\App02\App02.Android\obj\Debug\81\stamp\_BuildLibraryImportsCache.stamp
+C:\Users\ls_li\OneDrive\PIM\4SEM\MOBILE\Mobile\APP-Clutch-Kinetics\App02\App02.Android\obj\Debug\81\resourcepaths.cache
+C:\Users\ls_li\OneDrive\PIM\4SEM\MOBILE\Mobile\APP-Clutch-Kinetics\App02\App02.Android\obj\Debug\81\res.flag
+C:\Users\ls_li\OneDrive\PIM\4SEM\MOBILE\Mobile\APP-Clutch-Kinetics\App02\App02.Android\obj\Debug\81\flata\compiled.flata
+C:\Users\ls_li\OneDrive\PIM\4SEM\MOBILE\Mobile\APP-Clutch-Kinetics\App02\App02.Android\obj\Debug\81\App02.Android.dll
+C:\Users\ls_li\OneDrive\PIM\4SEM\MOBILE\Mobile\APP-Clutch-Kinetics\App02\App02.Android\obj\Debug\81\App02.Android.pdb

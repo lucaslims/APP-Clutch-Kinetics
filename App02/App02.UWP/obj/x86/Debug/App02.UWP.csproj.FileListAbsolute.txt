@@ -302,3 +302,16 @@ C:\GitHub\App02\App02\App02.UWP\obj\x86\Debug\ProjectArchitectures.txt
 C:\GitHub\App02\App02\App02.UWP\bin\x86\Debug\Xamarin.Essentials.dll
 C:\GitHub\App02\App02\App02.UWP\bin\x86\Debug\Xamarin.Essentials.pdb
 C:\GitHub\App02\App02\App02.UWP\obj\x86\Debug\Xamarin.Essentials.pri.xml
+C:\Users\ls_li\OneDrive\PIM\4SEM\MOBILE\Mobile\APP-Clutch-Kinetics\App02\App02.UWP\obj\x86\Debug\App02.UWP.csprojAssemblyReference.cache
+C:\Users\ls_li\OneDrive\PIM\4SEM\MOBILE\Mobile\APP-Clutch-Kinetics\App02\App02.UWP\obj\x86\Debug\App.g.i.cs
+C:\Users\ls_li\OneDrive\PIM\4SEM\MOBILE\Mobile\APP-Clutch-Kinetics\App02\App02.UWP\obj\x86\Debug\App.g.cs
+C:\Users\ls_li\OneDrive\PIM\4SEM\MOBILE\Mobile\APP-Clutch-Kinetics\App02\App02.UWP\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\ls_li\OneDrive\PIM\4SEM\MOBILE\Mobile\APP-Clutch-Kinetics\App02\App02.UWP\obj\x86\Debug\MainPage.g.cs
+C:\Users\ls_li\OneDrive\PIM\4SEM\MOBILE\Mobile\APP-Clutch-Kinetics\App02\App02.UWP\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\ls_li\OneDrive\PIM\4SEM\MOBILE\Mobile\APP-Clutch-Kinetics\App02\App02.UWP\obj\x86\Debug\App.xaml
+C:\Users\ls_li\OneDrive\PIM\4SEM\MOBILE\Mobile\APP-Clutch-Kinetics\App02\App02.UWP\obj\x86\Debug\MainPage.xaml
+C:\Users\ls_li\OneDrive\PIM\4SEM\MOBILE\Mobile\APP-Clutch-Kinetics\App02\App02.UWP\obj\x86\Debug\App.xbf
+C:\Users\ls_li\OneDrive\PIM\4SEM\MOBILE\Mobile\APP-Clutch-Kinetics\App02\App02.UWP\obj\x86\Debug\MainPage.xbf
+C:\Users\ls_li\OneDrive\PIM\4SEM\MOBILE\Mobile\APP-Clutch-Kinetics\App02\App02.UWP\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\ls_li\OneDrive\PIM\4SEM\MOBILE\Mobile\APP-Clutch-Kinetics\App02\App02.UWP\obj\x86\Debug\App02.UWP.exe
+C:\Users\ls_li\OneDrive\PIM\4SEM\MOBILE\Mobile\APP-Clutch-Kinetics\App02\App02.UWP\obj\x86\Debug\App02.UWP.pdb
